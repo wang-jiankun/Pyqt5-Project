@@ -16,4 +16,4 @@ MainWidget.py：窗口类设计
 browser_ui.py：界面代码
 browser_ui.py：界面设计
 1.jpg：图片资源
-moveToThread.py：另一种多线程的实现方法
+moveToThread.py：另一种实现多线程的方法
